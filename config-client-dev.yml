@@ -1,1 +1,4 @@
-message: 111111
+line.bot:
+  channel-token:  "MAyEWdst9st0EXgU7a6A1/TsPH477U0D2HPBi6zHrWwDyGxhpxvWXqINJ8Jtf05kzE80+GmWz+FupABCPpMU+bTH2os1zCPq+KJH1QoYQzGs7rPLOG28sEIr0h8aoZoSGOji7uhETqAAnyrogjzsewdB04t89/1O/w1cDnyilFU="
+  channel-secret: "c85537503b316c6173dfb1e15728e012"
+  handler.path: /callback
